@@ -111,7 +111,7 @@ export default function GridCard({
                         </div>
                       </PopupCard>
                     ))}
-                  {category.tools.length > 30 && (
+                  {category.tools.length > 11 && (
                     <button
                       className="body text-sm cursor-pointer flex-1 items-center justify-center flex outline outline-[#C9C3B9] h-[120px] px-2 py-4"
                       onClick={() => setExpanded(!expanded)}
@@ -122,7 +122,7 @@ export default function GridCard({
                           <>
                             <br />
                             <span className="text-xs">
-                              [{category.tools.length - 29}]
+                              [{category.tools.length - 11}]
                             </span>
                           </>
                         )}

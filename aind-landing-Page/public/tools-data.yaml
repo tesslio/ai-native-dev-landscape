@@ -115,11 +115,102 @@ domains:
       - Product
       verified: false
       website_url: https://createmvps.app/
-    - date_added: 12/03/2025
-      description: 'PRD Copilot for product managers.
-
-        Go from idea and feedback to a crisp document linked to Jira tickets with
-        the help of a generative AI assistant.'
+    - date_added: 13/08/2025
+      description: "An open-source large language model designed for intelligent agents by Z.ai."
+      icon_url: ''
+      name: GLM-4.5
+      oss: true
+      popular: false
+      tags:
+      - GA
+      - Model
+      - AIE
+      verified: false
+      website_url: https://github.com/zai-org/GLM-4.5
+    - date_added: 13/08/2025
+      description: "Asciinema records your terminal sessions and shares them as interactive webcasts."
+      icon_url: ''
+      name: Asciinema
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://asciinema.org/
+    - date_added: 13/08/2025
+      description: "Observable Notebooks 2.0: collaborative JavaScript notebooks for data visualization."
+      icon_url: ''
+      name: Observable Notebooks 2.0
+      oss: true
+      popular: false
+      tags:
+      - GA
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://github.com/observablehq/notebook-kit
+    - date_added: 13/08/2025
+      description: "Vision AI-Powered Mobile App Testing Agent. Test real devices at scale."
+      icon_url: ''
+      name: Drizz
+      oss: false
+      popular: false
+      tags:
+      - Testing
+      - Quality Assurance
+      verified: false
+      website_url: https://www.drizz.dev/
+    - date_added: 13/08/2025
+      description: "GitHub Spark helps you transform your ideas into code—visual editing, design-to-code, and enterprise CMS."
+      icon_url: ''
+      name: Github Spark
+      oss: false
+      popular: false
+      tags:
+      - Prompting
+      - Code
+      verified: false
+      website_url: https://githubnext.com/projects/github-spark/
+    - date_added: 13/08/2025
+      description: "Use Claude Code as the foundation for coding in your terminal with natural-language commands."
+      icon_url: ''
+      name: Claude Code Router
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://www.anthropic.com/docs/agents-and-tools/claude-code/overview
+    - date_added: 13/08/2025
+      description: "SGPT is a command-line tool that provides a conversational interface to GPT models."
+      icon_url: ''
+      name: sGPT
+      oss: true
+      popular: false
+      tags:
+      - GA
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://github.com/tbckr/sgpt
+    - date_added: 13/08/2025
+      description: "Build stunning apps, websites, and prototypes in minutes."
+      icon_url: ''
+      name: Hercules
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Prototyping
+      - Product
+      verified: false
+      website_url: https://hercules.app/
+    - date_added: 12/08/2025
+      description: 'PRD Copilot for product managers. Go from idea and feedback to a crisp document linked to Jira tickets with the help of a generative AI assistant.'
       icon_url: https://cdn.prod.website-files.com/607405e57d7f7c6426ed0d07/607563f221a2b8a25f336625_favicon.png
       name: Delibr
       oss: false
@@ -130,7 +221,7 @@ domains:
       - Product
       verified: false
       website_url: https://delibr.com/
-    - date_added: 12/03/2025
+    - date_added: 12/08/2025
       description: Spend less time on docs. Let Docuopia AI craft product requirements,
         help docs, and wikis in a few minutes. Start streamlining now.
       icon_url: https://cdn.prod.website-files.com/65dd4d9e255fe9f3d0990645/65e1839bfcbafca49807425e_favicon-32x32.png
@@ -143,7 +234,7 @@ domains:
       - Product
       verified: false
       website_url: https://docuopia.com/
-    - date_added: 12/03/2025
+    - date_added: 12/08/2025
       description: 'Transform Your Ideas Into Full-Stack Apps
 
         Get AI-powered architecture plans, documentation, and UI designs in minutes'
@@ -459,6 +550,21 @@ domains:
       - Product
       verified: false
       website_url: https://chef.convex.dev/
+    - date_added: 04/07/2025
+      description: 'Create MVPs with AI in seconds: A comprehensive guide to building
+        Minimum Viable Products using the latest AI tools and technologies. Generate
+        complete implementation plans in minutes.'
+      icon_url: https://createmvps.app/logo.png
+      name: CreateMVP
+      oss: true
+      popular: false
+      tags:
+      - OSS
+      - GA
+      - Nocode
+      - Product
+      verified: false
+      website_url: https://createmvps.app/
     - date_added: 09/04/2025
       description: 'Self-Improving Websites:  Dalton runs experiments 10x faster,
         learns what works, and improves your website 24/7. Better results, zero extra
@@ -568,6 +674,19 @@ domains:
       - Product
       verified: false
       website_url: https://leap.new/
+    - date_added: 04/07/2025
+      description: "Empowering Everyone to Build Reliable Software\u2014Simply.\n\
+        Direct AI to create, validate, and deploy your ideas with confidence."
+      icon_url: https://www.leapter.com/wp-content/themes/scr/img/logo/leapter.svg?v2
+      name: Leapter
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Nocode
+      - Product
+      verified: false
+      website_url: https://www.leapter.com/
     - date_added: 26/03/2025
       description: Oakie's platform empowers you to build custom AI agents that acts
         on the most critical business tasks, as you would, ensuring human expertise
@@ -585,6 +704,19 @@ domains:
       - Product
       verified: true
       website_url: https://www.oakie.ai/
+    - date_added: 04/07/2025
+      description: 'The Remote AI Runtime for Phoenix: Describe your app, and watch
+        it take shape. Prototype quickly, experiment freely, and share instantly.'
+      icon_url: https://phoenix.new/images/favicon/favicon-96x96-3fbd6b60d7ffb4134ac5ad0cce22bee7.png?vsn=d
+      name: Phoenix
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Nocode
+      - Product
+      verified: false
+      website_url: https://phoenix.new/
     - date_added: 12/03/2025
       description: Visual builder for React applications with code export.
       icon_url: https://www.plasmic.app/favicon.ico
@@ -614,7 +746,7 @@ domains:
     - date_added: 06/06/2025
       description: Build Custom Apps in Minutes. Create tailor-made business applications
         instantly with AI.
-      icon_url: https://spring.new/horizontal-logo.svg
+      icon_url: https://spring.new/favicon.svg
       name: Spring
       oss: false
       popular: false
@@ -1051,6 +1183,19 @@ domains:
       - Code
       verified: false
       website_url: https://www.all-hands.dev/
+    - date_added: 04/07/2025
+      description: 'Your AI Engineering Team: Wildcard is your AI team that erases
+        backlogs, runs migrations, and the first responder in production.'
+      icon_url: https://wild-card.ai/asteriskHeavyWildcard.svg
+      name: Wild-Card
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Autonomous Agent
+      - Code
+      verified: false
+      website_url: https://wild-card.ai/
     - date_added: 02/05/2025
       description: Maestro represents a new paradigm in software engineering. An intelligent
         agent, harmonizing all aspects of the development process with efficiency
@@ -1097,7 +1242,7 @@ domains:
       icon_url: https://d1.awsstatic.com/getting-started-guides/learning/amazon-q/icon_amazon-q.a5c38564734b6e9f611e9599eb271142389313a4.png
       name: Amazon Q Developer CLI
       oss: true
-      popular: false
+      popular: true
       social_urls:
       - https://www.linkedin.com/showcase/aws-developers/posts/?feedView=all
       tags:
@@ -1107,6 +1252,39 @@ domains:
       - Code
       verified: false
       website_url: https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html
+    - date_added: 04/07/2025
+      description: Use Claude Code / CodeX CLI to perform multiple tasks in parallel
+        with a Codex-style UI. A code agent task management system that provides parallel
+        execution of AI-powered coding tasks. Users can run multiple Claude Code agents
+        simultaneously through a Codex-style web interface, with support for different
+        agents for comparison and evaluation.
+      icon_url: https://avatars.githubusercontent.com/u/22167673?s=48&v=4
+      name: Async Code
+      oss: true
+      popular: false
+      tags:
+      - OSS
+      - GA
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://github.com/ObservedObserver/async-code
+    - date_added: 04/07/2025
+      description: 'CCManager is a TUI application for managing multiple AI coding
+        assistant sessions (Claude Code, Gemini CLI) across Git worktrees.
+
+        '
+      icon_url: https://avatars.githubusercontent.com/u/54230093?s=48&v=4
+      name: CC Manager
+      oss: true
+      popular: false
+      tags:
+      - OSS
+      - GA
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://github.com/kbwo/ccmanager
     - date_added: 24/03/2025
       description: "Claude Code is an agentic coding tool that lives in your terminal,\
         \ understands your codebase, and helps you code faster through natural language\
@@ -1120,13 +1298,43 @@ domains:
       icon_url: https://www.anthropic.com/favicon.ico
       name: Claude Code
       oss: false
-      popular: false
+      popular: true
       tags:
       - GA
       - Terminal
       - Code
       verified: false
       website_url: https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview
+    - date_added: 04/07/2025
+      description: A web-based interface for managing multiple Claude Code sessions
+        across Git worktrees.
+      icon_url: https://avatars.githubusercontent.com/u/43640969?s=48&v=4
+      name: Claude Code Crew
+      oss: true
+      popular: false
+      tags:
+      - OSS
+      - GA
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://github.com/to-na/claude-code-crew
+    - date_added: 04/07/2025
+      description: Claude-Flow is the ultimate orchestration platform that revolutionizes
+        how you work with Claude Code. Coordinate multiple AI agents simultaneously,
+        manage complex workflows, and build sophisticated applications with AI-powered
+        development.
+      icon_url: https://avatars.githubusercontent.com/u/2934394?s=48&v=4
+      name: Claude Code Flow
+      oss: true
+      popular: true
+      tags:
+      - OSS
+      - GA
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://github.com/ruvnet/claude-code-flow
     - date_added: 05/06/2025
       description: 'Manage multiple AI agents like Claude Code, Codex, and Aider.
 
@@ -1161,13 +1369,58 @@ domains:
       icon_url: https://avatars.githubusercontent.com/u/14957082?size-200
       name: Codex CLI
       oss: false
-      popular: false
+      popular: true
       tags:
       - GA
       - Terminal
       - Code
       verified: false
       website_url: https://github.com/openai/codex
+    - date_added: 04/07/2025
+      description: Container Use lets each of your coding agents have their own containerized
+        environment. Go from babysitting one agent at a time to enabling multiple
+        agents to work safely and independently with your preferred stack.
+      icon_url: https://avatars.githubusercontent.com/u/78824383?s=48&v=4
+      name: Container use
+      oss: true
+      popular: false
+      tags:
+      - OSS
+      - GA
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://github.com/dagger/container-use
+    - date_added: 04/07/2025
+      description: Crystal is an Electron desktop application that lets you run, inspect,
+        and test multiple Claude Code instances simultaneously using git worktrees.
+        Crystal is an independent project created by Stravu. Stravu is the way AI-first
+        teams collaborate.
+      icon_url: https://avatars.githubusercontent.com/u/165948090?s=48&v=4
+      name: Crystal
+      oss: true
+      popular: false
+      tags:
+      - OSS
+      - GA
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://github.com/stravu/crystal
+    - date_added: 04/07/2025
+      description: Gemini CLI, a command-line AI workflow tool that connects to your
+        tools, understands your code and accelerates your workflows.
+      icon_url: https://avatars.githubusercontent.com/u/161781182?s=48&v=4
+      name: Gemini CLI
+      oss: true
+      popular: true
+      tags:
+      - OSS
+      - GA
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://github.com/google-gemini/gemini-cli
     - date_added: 25/04/2025
       description: OpenCode is a Go-based CLI application that brings AI assistance
         to your terminal. It provides a TUI (Terminal User Interface) for interacting
@@ -1183,6 +1436,20 @@ domains:
       - Code
       verified: false
       website_url: https://github.com/opencode-ai/opencode
+    - date_added: 04/07/2025
+      description: 'Par: Parallel Worktree & Session Manager: Easily manage parallel
+        development workflows with isolated Git worktrees and tmux sessions'
+      icon_url: https://avatars.githubusercontent.com/u/167843566?s=48&v=4
+      name: Par
+      oss: true
+      popular: false
+      tags:
+      - OSS
+      - GA
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://github.com/coplane/par
     - date_added: 30/05/2025
       description: Build real world software with AI.An open source, terminal-based
         AI coding agent designed to handle large projects, large files, and large
@@ -1199,6 +1466,33 @@ domains:
       - Code
       verified: false
       website_url: https://plandex.ai/
+    - date_added: 04/07/2025
+      description: 'Agents in your terminal. Automations across your entire SDLC:  Qodo
+        Command is a powerful command-line interface for building, running, and managing
+        AI agents'
+      icon_url: https://www.qodo.ai/wp-content/uploads/2025/03/qodo-logo.svg
+      name: Qodo Command
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://www.qodo.ai/products/qodo-command/
+    - date_added: 04/07/2025
+      description: Enterprise-Grade Multi-Agent AI Development Platform
+      icon_url: https://avatars.githubusercontent.com/u/115739170?s=48&v=4
+      name: Splitmind
+      oss: true
+      popular: false
+      tags:
+      - OSS
+      - GA
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://github.com/webdevtodayjason/splitmind
     - date_added: 12/03/2025
       description: "The intelligent terminal.\nBecome a command line power user on\
         \ day one. Warp combines AI and your dev team\u2019s knowledge in one fast,\
@@ -1627,19 +1921,6 @@ domains:
       - Code
       verified: false
       website_url: https://trypear.ai/
-    - date_added: 02/04/2025
-      description: An AI coding agent designed for large tasks and real world projects.
-      icon_url: https://avatars.githubusercontent.com/u/148917357?s=48&v=4
-      name: Plandex
-      oss: true
-      popular: false
-      tags:
-      - OSS
-      - GA
-      - Editor
-      - Code
-      verified: false
-      website_url: https://github.com/plandex-ai/plandex
     - date_added: 24/03/2025
       description: 'Build. Debug. Deploy. All in one tool
 
@@ -2090,6 +2371,20 @@ domains:
       - Code
       verified: false
       website_url: https://www.mechanical-orchard.com/
+    - date_added: 04/07/2025
+      description: "Automated Code Migrations at Scale: Empower one developer to scale\
+        \ across hundreds of repos. Morph automates code migrations, security patches,\
+        \ and dependency updates\u2014keeping your entire codebase current and compliant."
+      icon_url: https://codemorph.dev/assets/356ce948-0b3c-47d5-8250-abcd19290dc8.png
+      name: Morph
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Migration
+      - Code
+      verified: false
+      website_url: https://codemorph.dev/
     - date_added: 12/03/2025
       description: "OpenRewrite is an open-source automated refactoring ecosystem\
         \ for source code, enabling developers to effectively eliminate technical\
@@ -2222,6 +2517,20 @@ domains:
       - Code
       verified: false
       website_url: https://microsoft.github.io/genaiscript/
+    - date_added: 04/07/2025
+      description: Turn any Git repository into a simple text digest of its codebase.
+        This is useful for feeding a codebase into any LLM.
+      icon_url: https://gitingest.com/static/favicon.svg
+      name: Git Ingest
+      oss: true
+      popular: false
+      tags:
+      - OSS
+      - GA
+      - Prompting
+      - Code
+      verified: false
+      website_url: https://gitingest.com/
     - date_added: 12/03/2025
       description: A powerful tool for analyzing GitHub repositories and providing
         valuable insights about code quality, dependencies, and more.
@@ -2295,6 +2604,21 @@ domains:
       - Code
       verified: false
       website_url: https://github.com/yamadashy/repomix
+    - date_added: 04/07/2025
+      description: Managing instructions across multiple AI coding tools becomes complex
+        as your team grows.  Different agents (GitHub Copilot, Claude, Cursor, Aider,
+        etc.) require their own configuration files
+      icon_url: https://avatars.githubusercontent.com/u/46264?s=48&v=4
+      name: Ruler
+      oss: true
+      popular: false
+      tags:
+      - OSS
+      - GA
+      - Prompting
+      - Code
+      verified: false
+      website_url: https://github.com/intellectronica/ruler
     - date_added: 12/03/2025
       description: Easily Ask Your LLM Coding Questions. Just change the 'g' to a
         'u'!
@@ -2308,6 +2632,20 @@ domains:
       - Code
       verified: false
       website_url: https://uithub.com/
+    - date_added: 04/07/2025
+      description: A powerful CLI tool for managing and sharing AI rules (prompts,
+        configurations) across different editors and tools.
+      icon_url: https://avatars.githubusercontent.com/u/113827671?s=48&v=4
+      name: Vibe Rules
+      oss: true
+      popular: false
+      tags:
+      - OSS
+      - GA
+      - Prompting
+      - Code
+      verified: false
+      website_url: https://github.com/FutureExcited/vibe-rules
   - description: Driving the code generation with specifications only
     level: 9
     name: Spec Driven
@@ -2399,6 +2737,109 @@ domains:
       - Code
       verified: false
       website_url: https://www.ptbk.io/
+    - date_added: 25/07/2025
+      description: "Think first. Code right. A focused macOS tool for turning specs into software—with Claude Code built in."
+      icon_url: ''
+      name: Bear Claude
+      oss: false
+      popular: false
+      tags:
+      - Spec Driven
+      - Code
+      verified: false
+      website_url: https://bearclaude.specstory.com/
+    - date_added: 25/07/2025
+      description: "Orchestrate multiple Claude Code agents working in parallel to improve your codebase through automated bug fixing or systematic best practices implementation"
+      icon_url: ''
+      name: Claude Code Agent Farm
+      oss: false
+      popular: false
+      tags:
+      - Autonomous Agent
+      - Code
+      verified: false
+      website_url: https://github.com/Dicklesworthstone/claude_code_agent_farm
+    - date_added: 25/07/2025
+      description: "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud."
+      icon_url: ''
+      name: Qwen3 Coder
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Model
+      - AIE
+      verified: false
+      website_url: https://github.com/QwenLM/Qwen3-Coder
+    - date_added: 25/07/2025
+      description: "Runs in a local web UI and autonomously works on your files alongside you."
+      icon_url: ''
+      name: Local Forge
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Autonomous Agent
+      - Code
+      verified: false
+      website_url: https://github.com/rockbite/localforge
+    - date_added: 25/07/2025
+      description: "Magnet lets you build quality software using AI agents. Run multiple Claude Code agents in parallel sandboxes, and supercharge the tools you already use."
+      icon_url: ''
+      name: Magnet
+      oss: false
+      popular: false
+      tags:
+      - Autonomous Agent
+      - Code
+      verified: false
+      website_url: https://www.magnet.run/
+    - date_added: 25/07/2025
+      description: "Never let your vibe coding session end just because you left your desk. Your AI coding companion follows you from the coffee shop to the couch."
+      icon_url: ''
+      name: Remote code
+      oss: false
+      popular: false
+      tags:
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://remote-code.com/
+    - date_added: 25/07/2025
+      description: "Real-time Claude Code usage monitor with predictions and warnings"
+      icon_url: ''
+      name: Claude Code Usage Monitor
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor
+    - date_added: 25/07/2025
+      description: "VibeTunnel proxies your terminals right into the browser, so you can vibe-code anywhere. Watch output scroll in real-time, type new commands, and spawn fresh sessions on the fly."
+      icon_url: ''
+      name: Vibetunnel
+      oss: false
+      popular: false
+      tags:
+      - Terminal
+      - Code
+      verified: false
+      website_url: https://vibetunnel.sh/
+    - date_added: 25/07/2025
+      description: "Run a bunch of Claude Codes in parallel. Each Claude gets an isolated workspace. See who's working, see who's stuck, and what's changed."
+      icon_url: ''
+      name: Conductor
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Autonomous Agent
+      - Code
+      verified: false
+      website_url: https://conductor.build/
     - date_added: 12/03/2025
       description: 'Transform your API Specs into Executable Contracts with #NoCode
         in Seconds. With Specmatic experience the power of Contract-Driven Development
@@ -2429,6 +2870,17 @@ domains:
       - Code
       verified: true
       website_url: https://specmatic.io/
+    - date_added: 25/07/2025
+      description: "The AI IDE for prototype to production. Kiro helps you do your best work by bringing structure to AI coding with spec-driven development."
+      icon_url: ''
+      name: Kiro
+      oss: false
+      popular: true
+      tags:
+      - Spec Driven
+      - Code
+      verified: false
+      website_url: https://kiro.dev/
     - date_added: 12/03/2025
       description: 'Software-as-a-Utility: integrate anything, automate everything.'
       icon_url: https://squillo.io/branding/square/SVG/square-green.svg
@@ -2453,7 +2905,6 @@ domains:
       oss: false
       popular: false
       tags:
-      - GA
       - Spec Driven
       - Code
       verified: false
@@ -3470,6 +3921,22 @@ domains:
       - DevOps
       verified: false
       website_url: https://docs.gptscript.ai/
+    - date_added: 04/07/2025
+      description: 'Automate Terraform in your cloud : Infra.new monitors your Terraform
+        stacks and provides AI assistance with
+
+        migrations, cost optimization, and maintenance via GitOps + your existing
+        CI/CD'
+      icon_url: https://infra.new/infra-light-v2.svg
+      name: Infra.new
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Infrastructure As Code
+      - DevOps
+      verified: false
+      website_url: https://infra.new
     - date_added: 30/05/2025
       description: 'The simplest way to design and deploy your cloud infrastructure.
         Talk to your infrastructure like a developer. No code. No complexity.
@@ -3574,6 +4041,20 @@ domains:
       - DevOps
       verified: true
       website_url: https://2501.ai
+    - date_added: 04/07/2025
+      description: "World\u2019s First DevOps Copilot: The Agentic Copilot that demystifies\
+        \ your DevOps processes and empowers your team to focus on innovation \u2014\
+        \ not operations."
+      icon_url: https://opsverse.io/wp-content/uploads/2024/08/cropped-logo-32x32.png
+      name: Aiden
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - SRE
+      - DevOps
+      verified: false
+      website_url: https://opsverse.io/aiden/
     - date_added: 12/03/2025
       description: 'Anyshift is an AI-SRE assistant that immediately responds to urgent
         queries like "Why can''t I access the RDS instance?" or "Why did my deployment
@@ -4710,6 +5191,21 @@ domains:
       - AIE
       verified: false
       website_url: https://code-rag-bench.github.io/
+    - date_added: 04/07/2025
+      description: Benchmark tests designed to evaluate the effectiveness of DSS rules
+        in creating automatic, professional behavior in AI assistants such as cursor
+        rules
+      icon_url: ''
+      name: DSS
+      oss: true
+      popular: false
+      tags:
+      - OSS
+      - GA
+      - Code Benchmark
+      - AIE
+      verified: false
+      website_url: https://github.com/Dub1n/dss-benchmark
     - date_added: 12/03/2025
       description: This is an evaluation harness for the HumanEval problem solving
         dataset described in the paper "Evaluating Large Language Models Trained on
@@ -4754,6 +5250,21 @@ domains:
       - AIE
       verified: false
       website_url: https://www.swebench.com/
+    - date_added: 04/07/2025
+      description: 'A benchmark for ai agents in terminal environments: terminal-bench
+        is a collection of tasks and an evaluation harness to help agent makers quantify
+        their agents'' terminal mastery'
+      icon_url: https://www.tbench.ai/favicon.ico
+      name: Terminal Bench
+      oss: true
+      popular: false
+      tags:
+      - OSS
+      - GA
+      - Code Benchmark
+      - AIE
+      verified: false
+      website_url: https://www.tbench.ai
   - description: Safe execution of generated code
     level: 22
     name: Execution Sandbox
@@ -4842,6 +5353,18 @@ domains:
       - AIE
       verified: true
       website_url: https://www.daytona.io/
+    - date_added: 04/07/2025
+      description: ''
+      icon_url: ''
+      name: Devcontainer
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Execution Sandbox
+      - AIE
+      verified: false
+      website_url: https://devcontainer.ai/
     - date_added: 12/03/2025
       description: Run AI generated code securely in your app.
       icon_url: https://e2b.dev/favicon.ico
@@ -5298,21 +5821,6 @@ domains:
       - AIE
       verified: false
       website_url: https://mcp.run/
-    - date_added: 29/03/2025
-      description: "The MCP Generator is a CLI tool that generates an MCP server based\
-        \ on your company\u2019s documentation & OpenAPI specification if available.\
-        \ It takes in your documentation and a OpenAPI spec and outputs an MCP server\
-        \ that can be used with any MCP client."
-      icon_url: https://www.mcpt.com/favicon.ico
-      name: mcpt
-      oss: false
-      popular: false
-      tags:
-      - GA
-      - MCP
-      - AIE
-      verified: false
-      website_url: https://mintlify.com/docs/advanced/mcp/quickstart
   - description: Browser controlled tools
     level: 25
     name: Browser
@@ -5452,6 +5960,19 @@ domains:
     level: 28
     name: Gateway
     tools:
+    - date_added: 04/07/2025
+      description: 'Secure Your AI Transformation: Aim is the only AI platform to
+        secure and protect AI you use, build, and run everywhere.'
+      icon_url: https://cdn.prod.website-files.com/659534d3177e515af320b46c/67a37e868e084d7621e4da90_Logo-Aim.svg
+      name: AIM Security
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Gateway
+      - AIE
+      verified: false
+      website_url: https://www.aim.security/
     - date_added: 25/04/2025
       description: "Frosty AI is a multi-LLM routing and observability platform built\
         \ for AI-native teams.\nIt enables seamless routing of prompts across providers\
