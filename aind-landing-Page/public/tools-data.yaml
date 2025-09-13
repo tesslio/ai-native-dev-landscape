@@ -4517,6 +4517,21 @@ domains:
       - DevOps
       verified: false
       website_url: https://www.getdx.com/
+    - date_added: 18/06/2025
+      description: The leading Software Engineering Intelligence Platform that 
+      enables engineering, finance and business leaders to build more effective R&D 
+      organizations by uncovering actionable insights on team health and performance, 
+      investment allocations, delivery, and AI coding adoption and impact.
+      icon_url: https://www.jellyfish.co/favicon.ico
+      name: Jellyfish
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Observability
+      - DevOps
+      verified: false
+      website_url: https://www.jellyfish.co/
     - date_added: 25/04/2025
       description: "An end-to-end, autonomous remediation platform designed to troubleshoot\
         \ incidents and application-level issues in real time.From the moment a ticket\
