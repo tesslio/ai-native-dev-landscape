@@ -3797,6 +3797,19 @@ domains:
       - Quality Assurance
       verified: false
       website_url: https://komment.ai/
+    - date_added: 17/07/2025
+      description: Docucod auto-generates and maintains up-to-date documentation from your codebase so your team can move fast, onboard quickly, and stay focused on building. Text, graphs, charts, we do it all.
+      icon_url: https://docucod.com/docucod-logo.svg
+      name: Docucod
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - Verified
+      - Documentation
+      - Quality Assurance
+      verified: true
+      website_url: https://docucod.com/
     - date_added: 12/03/2025
       description: Meet the next generation of documentation. AI-native, beautiful
         out-of-the-box, and built for developers.
