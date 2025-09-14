@@ -3602,6 +3602,24 @@ domains:
       - Quality Assurance
       verified: false
       website_url: https://whatthediff.ai/
+    - date_added: 16/07/2025
+      description: cubic is an AI-native code review platform that helps development teams ship
+        higher-quality code 3× faster. It provides context-aware AI pull request reviews, inline 
+        comments, one-click fixes, and custom rules—all without storing your code.
+      icon_url: https://www.cubic.dev/favicon.ico
+      name: cubic
+      oss: false
+      popular: false
+      social_urls:
+      - https://www.linkedin.com/company/cubic-dev/
+      - https://x.com/cubic_dev_
+      tags:
+      - Verified
+      - GA
+      - Review
+      - Quality Assurance
+      verified: true
+      website_url: https://www.cubic.dev/
   - description: Help with mananging documentation
     level: 14
     name: Documentation
