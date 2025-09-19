@@ -2294,6 +2294,16 @@ domains:
       - Code
       verified: false
       website_url: https://tempolabs.ai/
+    - date_added: 19/09/2025
+      description: Make LLMs respond with interactive UI instead of text.
+      icon_url: https://thesys.dev/favicon.ico
+      name: Thesys
+      oss: false
+      popular: false
+      tags:
+      - Frontend
+      verified: true
+      website_url: https://thesys.dev/
   - description: Migration tools for large and legacy code bases
     level: 7
     name: Migration
