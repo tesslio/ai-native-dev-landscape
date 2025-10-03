@@ -2225,6 +2225,32 @@ domains:
       - Code
       verified: false
       website_url: https://www.app.build/
+    - date_added: 03/10/2025
+      description: AI-Native Development Environment with built-in AI-powered code completion,
+        generation, and chat assistant. Features advanced code navigation, refactoring,
+        and cross-platform support for Windows, macOS, and Linux. Extensible architecture
+        with a rich extension ecosystem.
+      icon_url: https://raw.githubusercontent.com/AINative-Studio/AINativeStudio-IDE/main/ainative-studio/ai_native_studio_icons/ai_native_studio_48x48.png
+      name: AINative Studio
+      oss: true
+      popular: false
+      tags:
+      - OSS
+      - GA
+      - IDE
+      - AI-powered
+      - TypeScript
+      - JavaScript
+      - Cross-platform
+      - Code-editor
+      - AI-assistant
+      - Development-environment
+      - MIT-license
+      - VSCode-compatible
+      - Editor
+      - Code
+      verified: false
+      website_url: https://www.ainative.studio/download
   - description: Specialized in Frontend and Mobile code generation
     level: 6
     name: Frontend & Mobile
