@@ -4486,6 +4486,19 @@ domains:
       - DevOps
       verified: false
       website_url: https://www.wildmoose.ai/
+    - date_added: 28/01/2026
+      description: AI SRE for Kubernetes. Autonomous issue detection, root cause
+        analysis, and remediation.
+      icon_url: https://metoro.io/favicon.ico
+      name: Metoro
+      oss: false
+      popular: false
+      tags:
+      - GA
+      - SRE
+      - DevOps
+      verified: false
+      website_url: https://metoro.io/
     - date_added: 23/05/2025
       description: The R&P lab reimagining DevOps
       icon_url: https://www.a37.ai/favicon.svg
